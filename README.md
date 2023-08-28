@@ -20,7 +20,3 @@ TBA
 This project is licensed under the [GNU General Public License](LICENSE).
 
 ---
-
-<p align="center">
-  Made with ❤️ by [Tushar Shrivastav](https://tspython.github.io/)
-</p>
